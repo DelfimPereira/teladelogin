@@ -16,6 +16,14 @@
         height: 100%;
     }
 
+    div.campo > input{
+        width: 93%;
+        
+
+    }
+
+
+
     section#login > div#formulario{
         float: right;
         width: 70%;
